@@ -822,8 +822,4 @@ MainView {
             }
         }
     }
-
-    ThemeColors {
-        id:calenderThemeColors
-    }
 }
